@@ -15,9 +15,9 @@ const config = {
         autoCenter: Scale.CENTER_BOTH
     },
     scene: [
-        Title,
-        Grill
-    ]
+        Grill,
+        Title
+        ]
 };
 
 const StartGame = (parent) => {
