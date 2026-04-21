@@ -1,0 +1,22 @@
+***Title Page ***
+[ ] Add clickability to buttons
+[ ] Add background music
+[x] Make Items Draggable
+[ ] !!! Create Spritesheets
+[ ] Load in Spritesheets
+
+
+
+*** Main Grill Op Game ***
+[ ] 
+[ ] 
+
+
+
+*** Main Server Game ***
+[ ] 
+[ ] 
+[ ]
+
+
+
