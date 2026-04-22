@@ -6,7 +6,7 @@
 
 Other:
  [x] Make level transitions work
- [ ] Edit background image to have item boxes and plates/bowls
+ [x] Edit background image to have item boxes and plates/bowls
  [ ] Make level transitions smoother
  [ ] Add in more levels
  [ ] Add in more questions
@@ -14,9 +14,12 @@ Other:
  
 
 *** Main Grill Op Game ***
-[ ] Load in Spritesheets
+[x] Arrage markers on page and make draggable
 [ ] Add interaction boxes to the page
 [ ] Make so when plate is clicked, large version appears
+[ ] Figure out logic for correct and incorrect answers
+[ ]     Have boundary boxes for each item and when item is dragged into box, it checks if it's correct or not after clicking submit
+
 
 
 
