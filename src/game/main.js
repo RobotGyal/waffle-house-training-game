@@ -1,5 +1,6 @@
 import { Title as Title } from './scenes/Title';
 import { Grill as Grill } from './scenes/Grill';
+import { Grill_Instructions as GrillInstructions } from './scenes/Grill_Instructions';
 import { AUTO, Scale,Game } from 'phaser';
 
 // Find out more information about the Game Config at:
@@ -9,14 +10,15 @@ const config = {
     width: 1024,
     height: 768,
     parent: 'game-container',
-    backgroundColor: '#028af8',
+    backgroundColor: '#000000',
     scale: {
         mode: Scale.FIT,
         autoCenter: Scale.CENTER_BOTH
     },
     scene: [
-        Grill,
-        Title
+        //Title,
+        //GrillInstructions,
+        Grill
         ]
 };
 

@@ -1,15 +1,22 @@
 ***Title Page ***
-[ ] Add clickability to buttons
+[x] Add clickability to buttons
 [ ] Add background music
 [x] Make Items Draggable
-[ ] !!! Create Spritesheets
-[ ] Load in Spritesheets
+[x] !!! Create Spritesheets
 
-
+Other:
+ [x] Make level transitions work
+ [ ] Edit background image to have item boxes and plates/bowls
+ [ ] Make level transitions smoother
+ [ ] Add in more levels
+ [ ] Add in more questions
+ [ ] 
+ 
 
 *** Main Grill Op Game ***
-[ ] 
-[ ] 
+[ ] Load in Spritesheets
+[ ] Add interaction boxes to the page
+[ ] Make so when plate is clicked, large version appears
 
 
 
